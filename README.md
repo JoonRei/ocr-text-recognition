@@ -1,6 +1,6 @@
 # ocr-text-recognition
 
-This template should help get you started developing with Vue 3 in Vite.
+CC106 Fiinal Project
 
 ## Recommended IDE Setup
 
